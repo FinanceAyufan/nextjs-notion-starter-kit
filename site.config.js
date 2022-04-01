@@ -9,7 +9,7 @@ export default {
   // basic site info (required)
   name: 'Ayufanfan',
   domain: 'https://heathered-harrier-dda.notion.site/1ca423ee1edf4014b32974f58478a298',
-  author: 'Yuf Long',
+  author: 'Ayufanfan',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
